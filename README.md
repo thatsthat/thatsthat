@@ -1,19 +1,16 @@
-## Hi there 👋
+# Projects
 
-<!--
-**thatsthat/thatsthat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Castellers: 
 
-Here are some ideas to get you started:
+<a href="https://liles.pages.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Web-FF7139?style=for-the-badge&logo=Firefox&logoColor=white&color=purple">
+</a> <a href="https://github.com/thatsthat/liles-frontend" target="_blank">
+  <img src="https://img.shields.io/badge/code-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;
+
+# Skills
 
 #### Languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)&nbsp;
@@ -32,3 +29,4 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
