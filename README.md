@@ -4,7 +4,7 @@
 
 <a href="https://liles.pages.dev" target="_blank">
   <img src="https://img.shields.io/badge/Web-FF7139?style=for-the-badge&logo=Firefox&logoColor=white&color=purple">
-</a> <a href="https://github.com/thatsthat/liles-frontend" target="_blank">
+</a><a href="https://github.com/thatsthat/liles-frontend" target="_blank">
   <img src="https://img.shields.io/badge/code-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
 </a>
 
